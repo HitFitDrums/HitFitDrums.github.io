@@ -1,2 +1,3 @@
-# HitFitDrums.github.io
-temp eng. landing page for fantastick
+# HitFitDrums.github.io Landing
+
+Temp Landing Page
