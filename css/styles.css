@@ -6184,6 +6184,10 @@ textarea.form-control-lg {
 .carousel-dark .carousel-indicators [data-bs-target] {
   background-color: #000;
 }
+/* New Line */
+/* .carousel-dark .carousel-indicators [data-bs-target2] {
+  background-color: #ecedee;
+} */
 .carousel-dark .carousel-caption {
   color: #000;
 }
